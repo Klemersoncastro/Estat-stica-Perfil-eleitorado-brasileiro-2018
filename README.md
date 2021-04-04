@@ -1,4 +1,4 @@
-# Trabalho de Estatística
+# Trabalho de Estatística - Ciência de Dados - UEA
 
 ## Perfil do eleitorado brasileiro em 2018
 
